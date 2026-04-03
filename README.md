@@ -57,25 +57,18 @@ The app shows you green for correct answers, red for mistakes, and yellow for sq
 
 ## 🖼️ Screenshots
 
-<img src="C:\Users\Admin\Downloads\New folder\1.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\2.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\3.png" style="zoom:50%;" />
-
-
-
-<img src="C:\Users\Admin\Downloads\New folder\4.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\5.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\6.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\7.png" style="zoom: 50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\8.png" style="zoom:50%;" />
-
-<img src="C:\Users\Admin\Downloads\New folder\9.png" style="zoom:50%;" />
+<details>
+  <summary>Click to view screenshot</summary>
+<img width="1194" height="844" alt="1" src="https://github.com/user-attachments/assets/cafa01ed-9041-4cd6-b7ae-bc70dfbe7c73" />
+<img width="1197" height="847" alt="2" src="https://github.com/user-attachments/assets/0de88fe5-8cd8-4005-8da5-7fb93acff597" />
+<img width="1186" height="847" alt="3" src="https://github.com/user-attachments/assets/96904fad-99ac-4147-b205-bc3795f09374" />
+<img width="1193" height="849" alt="4" src="https://github.com/user-attachments/assets/a88d9579-3e25-4684-8571-cb79a3213744" />
+<img width="1190" height="838" alt="5" src="https://github.com/user-attachments/assets/0df2d12f-b5ae-44d6-a802-dbe011d0c37d" />
+<img width="1190" height="840" alt="6" src="https://github.com/user-attachments/assets/13824591-3d4b-49ef-9a60-52337fa5cf7e" />
+<img width="1189" height="844" alt="7" src="https://github.com/user-attachments/assets/4fb6fbc8-1453-4ee7-9bab-dc197bf8393c" />
+<img width="1194" height="828" alt="8" src="https://github.com/user-attachments/assets/ae2fe75d-f6bd-4660-a5d4-e96880c5c973" />
+<img width="1186" height="821" alt="9" src="https://github.com/user-attachments/assets/8a7f5009-ab58-478f-9bf6-76728e0e4d56" />
+</details>
 
 ## 📊 Why This vs Chess.com or Lichess
 
